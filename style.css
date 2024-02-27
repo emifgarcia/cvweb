@@ -1,0 +1,27 @@
+.formato{
+    font-family: monospace;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529; 
+    width: 1200px;
+    height: 500px;
+}
+
+.wipro{
+    height: 60px;
+    background-color: rgb(243, 243, 238);
+    background-image: url('./galeria/wipro.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:contain;
+}
+
+.vivo{
+    height: 60px;
+    background-color: rgb(243, 243, 238);
+    background-image: url('./galeria/tlfvivo.png');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:contain;
+}
